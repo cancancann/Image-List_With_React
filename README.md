@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you are a member by clicking on Pixabay.com, you can get the API key and try, but if you are not a member, you can become a member and get the API key.
 
 ## Available Scripts
 
